@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Inter&size=40&center=true&vCenter=true&width=600&height=70&color=4493F8&duration=4000&lines=Hi+There!+👋;+I'm+Karas!;" />
+</h1>
 
-<!--
-**karashanyayyad/karashanyayyad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science Student | CS50 Scholar | Passionate Developer
 
-Here are some ideas to get you started:
+- 🌱 I’m currently diving deep into Computer Science via **Harvard's CS50**.
+- 🚀 Actively building projects and solving complex algorithmic problems.
+- 🎯 Seeking opportunities to study abroad and expand my technical horizons.
+- 💬 Ask me about what I'm learning in C, Python, and Web Development!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=karashanyayyad&theme=transparent&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=karashanyayyad&theme=transparent&layout=donut&langs_count=5&show_icons=true&locale=en" alt="Top Languages" />
+</div>
